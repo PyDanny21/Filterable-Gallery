@@ -60,3 +60,17 @@ h2{
     box-shadow: 7px 7px 0px rgba(0,0,0,0.2);
     overflow: hidden;
 }
+
+@media(max-width:660px){
+    .menu a {
+        font-size: 1.1rem;
+        margin: 0 0.1rem;
+        padding: 8px 5px;
+    }
+    .store-item {
+        width: 100px;
+        padding: 10px;
+        height: 100px;
+    }
+
+}
